@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "wedzy",
+            "cwd": "wedzy",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "wedzy (profile mode)",
+            "cwd": "wedzy",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "wedzy (release mode)",
+            "cwd": "wedzy",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
